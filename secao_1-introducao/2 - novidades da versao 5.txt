@@ -1,0 +1,6 @@
+- Possui ícones próprios; 
+- Novos componentes (slider, barra de navegacao, card, entre outras);
+- Independência do jQuery(nao vai ser utilizado);
+- Melhoria dos componentes do formulário;
+- Simplificação das classes de alguns componentes;
+- Facilitação e melhorias na customização;

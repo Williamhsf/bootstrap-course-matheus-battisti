@@ -1,0 +1,3 @@
+- Precisamos conhecer os componentes(diferente de gravar); 
+- Consultar a documentação; 
+- Copiar o componente e excluir o que não vamos utilizar ou criar o nosso a partir da referência das classes;

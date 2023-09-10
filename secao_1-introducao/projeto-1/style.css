@@ -1,0 +1,9 @@
+.no-outline:focus {
+  box-shadow: none;
+  border: 1px solid black;
+  
+}
+
+.d-flex input {
+  border: 1px solid transparent;
+}

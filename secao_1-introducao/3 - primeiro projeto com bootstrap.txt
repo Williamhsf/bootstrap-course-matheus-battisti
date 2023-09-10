@@ -1,0 +1,4 @@
+- Criar primeiro projeto com Bootstrap; 
+- Instalaremos por meio do CDN; 
+- CDN e um servidor que distribui geralmente arquivos em cache, carregando de maneira mais rápida o projeto; 
+- Ha pros e contra em usar CDN;

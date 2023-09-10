@@ -1,0 +1,4 @@
+- O Bootstrap é uma biblioteca orientada a componentes;
+- Ou seja uma parte já vem pronta e podemos altera-la como desejarmos;
+- Agiliza demais o desenvolvimento do front-end;
+- Cria também um padrão de grid facilitando a exibição de conteúdo baseado na resolução
