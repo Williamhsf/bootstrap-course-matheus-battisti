@@ -1,0 +1,5 @@
+Instalação com arquivos
+● Para instalar com arquivos no nosso servidor, precisamos fazer o download do Bootstrap; -> https://getbootstrap.com/docs/5.3/getting-started/download/ - Compiled CSS and JS
+● Os arquivos estão disponíveis no site oficial;
+● Colocaremos os arquivos em diretórios do nosso projeto;
+● E realizaremos o link de CSS e JavaScript, a partir dos caminhos relativos;

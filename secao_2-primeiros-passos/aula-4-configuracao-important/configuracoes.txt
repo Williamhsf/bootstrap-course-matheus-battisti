@@ -1,0 +1,6 @@
+Configurações importantes
+● Há dois elementos necessários para o correto funcionamento do Bootstrap que precisamos nos atentar no HTML;
+● DOCTYPE: O Bootstrap necessita das tags corretas de DOCTYPE;
+● viewport: E também da tag que controla a responsividade;
+● Sem estas configurações ele pode funcionar, porém estamos sujeitos a instabilidades;
+● Verificar index da aula 3

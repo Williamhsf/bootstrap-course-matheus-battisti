@@ -1,0 +1,5 @@
+Sobre a instalação com npm
+
+Você pode simplesmente utilizar:
+
+npm i bootstrap
