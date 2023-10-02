@@ -1,0 +1,6 @@
+Inserindo nosso CSS
+● O estilo do Bootstrap pode não ser suficiente para finalizar uma aplicação,
+então inserimos nosso CSS;
+● Vamos linkar sempre abaixo do BS; É importante pois sempre irá substituir para nossa regra
+● Nossas regras precisam ter um nível de seleção pelo menos igual o do BS para substituí-las;
+● Vamos a prática!

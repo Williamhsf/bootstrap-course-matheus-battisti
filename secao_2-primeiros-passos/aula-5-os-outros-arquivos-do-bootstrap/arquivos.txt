@@ -1,0 +1,6 @@
+O que vem nos arquivos do BS?
+● Quando fazemos o download ou instalamos por npm, vários arquivos estão disponíveis;
+● Neles teremos arquivos mais simplificados, minificados ou também com apenas alguns dos componentes;
+● Os de JavaScript também seguem este padrão;
+● Vamos dar olhada! Verificar arquivos pasta "E:\bootstrap-matheus_battisti\secao_2-primeiros-passos\aula-3-instalacao-NPM\node_modules\bootstrap\dist\css"
+  ali tem arquivos que podem ser editados e outros que já vem montado sem precisar mexer..

@@ -1,0 +1,25 @@
+h1 {
+  color: red;
+}
+
+/* observe que não vi pegar */
+button {
+  background-color: red;
+}
+
+/* inspecionando o elemento vemso que el possui classe especifica, mexendo nela podemos editar */
+.btn-primary {
+  background-color: red;
+}
+
+/* 
+Apaga este arquivo que de nada valerá 
+
+button {
+  background-color: red;
+}
+*/
+
+input {
+  outline: none;
+}
